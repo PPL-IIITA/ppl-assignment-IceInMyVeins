@@ -2,6 +2,12 @@
         Enter the following command into the terminal:
 
         "g++ BOYS.h GIRLS.h GIFTS.h COUPLES.h relalgo.h q1.cpp"
+        
+-> To Run Question 2,
+        Enter the following command into the terminal:
+
+        "g++ BOYS.h GIRLS.h GIFTS.h COUPLES.h relalgo.h q2.cpp"
+
 
 -> SYSTEM
 
