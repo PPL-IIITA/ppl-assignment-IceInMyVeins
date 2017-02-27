@@ -56,3 +56,14 @@ void form_couples()
     fgi.close();
 }
 
+/*!\mainpage IPPL Assignment
+* \section intro_sec How to run?
+ * \subsection q1 Q1:
+ *  To run Q1: g++ BOYS.h GIRLS.h GIFTS.h COUPLES.h relalgo.h q1.cpp  &&  ./a.out
+ * \subsection q2 Q2:
+ *  To run Q1: g++ BOYS.h GIRLS.h GIFTS.h COUPLES.h relalgo.h q2.cpp  &&  ./a.out
+ *
+ * \subsection creator Created by: 
+* AAKASH MALIK (IIT2015132)
+
+*/
